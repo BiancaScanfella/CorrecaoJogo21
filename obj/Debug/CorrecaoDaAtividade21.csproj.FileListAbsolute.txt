@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\bin\Debug\CorrecaoDaAtividade21.exe.config
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\bin\Debug\CorrecaoDaAtividade21.exe
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\bin\Debug\CorrecaoDaAtividade21.pdb
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\obj\Debug\CorrecaoDaAtividade21.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\obj\Debug\CorrecaoDaAtividade21.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\obj\Debug\CorrecaoDaAtividade21.exe
+C:\Users\bianca.ascanfella\source\repos\CorrecaoDaAtividade21\CorrecaoDaAtividade21\obj\Debug\CorrecaoDaAtividade21.pdb
